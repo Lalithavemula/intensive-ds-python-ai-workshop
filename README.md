@@ -25,3 +25,16 @@ This repository houses two hands-on Data Science projects developed during an in
 
 ## 📁 Repository Structure
 
+intensive-ds-python-ai-workshop/
+├── area_safety/
+│ └── area_safety.py
+├── heart_disease/
+│ └── heart.py
+└── README.md
+
+## 🛠️ Tools & Libraries
+
+- Python 3.x  
+- pandas, numpy  
+- seaborn, matplotlib  
+- scikit-learn
